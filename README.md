@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-**Senior at the University of Iowa | Business Analytics and Information Systems Major**
+**Senior at the University of Iowa | Business Analytics and Information Systems**
 
 - Based in Chicago, IL
 - Pursuing a degree in Business Analytics and Information Systems with a minor in Psychology.
